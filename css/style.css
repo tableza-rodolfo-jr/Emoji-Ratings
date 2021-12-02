@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+img{
+    padding: 20px 40px;
+}
+img:hover{
+    opacity: 0.5;
+    transition: 0.5s;
+}
+.product{
+    padding: 20px 40px;
+}
+a{
+ text-decoration: none;
+ text-transform: uppercase;
+ line-height: 1px;
+ letter-spacing: 1px;
+ font-size: 20px;
+ font-weight: bold;
+ padding: 9px 18px;
+ background-color: silver;
+ color: black;
+ border-radius: 25px;
+
+}
+a:hover{
+    color: #676767;
+    background-color: #f2f2f2;
+    font-size: 24px;
+    transition: 1.5s;
+}
+
+button{
+    padding: 9px 20px;
+    margin: 10px 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 14px;
+    background-color: #f2f2f2;
+    color: black;
+}
+button:hover{
+    font-size: 16px;
+    color: white;
+    background-color: gray;
+    transition: 1.5s;
+}
+
